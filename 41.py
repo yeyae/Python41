@@ -7,3 +7,5 @@ def say_nick(nick):
 
 say_nick('야호')
 say_nick('바보')
+
+#이렇게 하면 가능!
